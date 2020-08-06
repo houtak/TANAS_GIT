@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">TANAS</string>
+    <string name="youremail">Your Email</string>
+    <string name="yourpassword">Your Password</string>
+    <string name="login">Login</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="newregistration">Register Here</string>
+    <string name="forgotpassword">Forgot Password</string>
+    <string name="clicktotake">Click above to take picture</string>
+    <string name="location">Location</string>
+    <string name="phone">Mobile Phone</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sethomelocation">Home Location</string>
+    <string name="register">Register</string>
+    <string name="alreadyregister">Already Register</string>
+    <string name="registration">Registration</string>
+    <string name="close">CLOSE</string>
+    <string name="dialogtakepicture">Take Picture?</string>
+    <string name="dialogtakepicturea">Make sure to use your own picture</string>
+    <string name="yesbutton">Yes</string>
+    <string name="nobutton">No</string>
+    <string name="selectlocation">Select Location</string>
+    <string name="cart">My Cart</string>
+    <string name="registerdialognew">Register new account</string>
+    <string name="registrationprocess">Registration in progress</string>
+    <string name="registerfor">Register for</string>
+    <string name="lastname">Last Name</string>
+    <string name="firstname">First Name</string>
+    <string name="tanas">Taking Number App Using QR Code</string>
+    <string name="checkstatus">Check Your Current Queue Status</string>
+    <string name="takenum">Obtain Your Queue Number</string>
+
+    <string-array name="location">
+        <item>All</item>
+        <item>Changlun</item>
+        <item>Sintok</item>
+        <item>Jitra</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="listcompany">Obtain these companies queue number</string>
+    <string name="areyousure">ARE YOU SURE TAKE THIS NUMBER?</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="info">You will be served shortly.</string>
+    <string name="withdraw">WITHDRAW FROM QUEUE</string>
+    <string name="title_activity_maps2">Map</string>
+
+</resources>
